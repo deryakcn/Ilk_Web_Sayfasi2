@@ -1,0 +1,39 @@
+hr{
+width: 98%;
+margin-left: 0%;
+}
+h3{
+    padding-left: 10px;
+    text-decoration: underline double;
+}
+h2{
+    padding-left: 10px;
+    color: coral;
+}
+.hakkimda{
+    padding: 5px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.sevdigimDiziler{
+    text-align: center;
+    color: coral;
+}
+p{
+    padding-left: 5px;
+}
+.bilgi{
+    padding-left: 20px; 
+}
+.baslik{
+    color: cadetblue;
+}
+ul{
+    padding-left: 25px;
+    padding-top: 10px;
+}
+img{
+    width: 50%;
+    padding-left: 2%;
+}
